@@ -1,0 +1,9 @@
+.card__meta_access-icon::before {
+    content: '';
+    width: 16px;
+    height: 16px;
+    object-fit: contain;
+    background: url(../../../../images/user.svg) no-repeat center center;
+    display: inline-block;
+    margin-right: 9px;
+}

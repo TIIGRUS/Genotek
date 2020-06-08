@@ -1,0 +1,7 @@
+.card__meta-item {
+    margin-right: 15px;
+}
+
+.card__meta-item:last-child {
+    margin-right: 0;
+}

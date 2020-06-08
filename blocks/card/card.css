@@ -1,2 +1,20 @@
+@import '../../blocks/card/__header/card__header.css';
+@import '../../blocks/card/__meta-list/card__meta-list.css';
+@import '../../blocks/card/__meta-item/card__meta-item.css';
+@import '../../blocks/card/__meta/card__meta.css';
+@import '../../blocks/card/__meta/_access/card__meta_access.css';
+@import '../../blocks/card/__meta/_access-icon/card__meta_access-icon.css';
+@import '../../blocks/card/__meta/_company/card__meta_company.css';
 @import '../../blocks/card/__title/card__title.css';
 @import '../../blocks/card/__subtitle/card__subtitle.css';
+@import '../../blocks/card/__image/card__image.css';
+
+.card {
+    background: #fff;
+    max-width: 1300px;
+    margin: 114px auto 139px;
+    border: 1px solid red;
+    border-radius: 8px;
+    box-shadow: 0 4px 26px 0 #e1e1e1;
+    overflow: hidden;
+}

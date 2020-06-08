@@ -1,0 +1,8 @@
+.card__meta {
+    font-size: 14px;
+    line-height: 1.36;
+    font-weight: normal;
+    color: #6d7278;
+    display: inline-flex;
+    align-items: center;
+}
