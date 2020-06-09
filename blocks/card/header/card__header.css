@@ -1,9 +1,0 @@
-.card__header {
-    margin: 30px 45px;
-}
-
-@media (max-width: 575px) {
-    .card__header {
-        margin: 30px 15px 15px;
-    }
-}
