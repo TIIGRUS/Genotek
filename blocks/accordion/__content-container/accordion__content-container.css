@@ -17,12 +17,7 @@
 @media (max-width: 575px) {
     .accordion__container-content {
         grid-template-columns: 100%;
-    }
-}
-
-@media (max-width: 575px) {
-    .accordion__container-content {
-        margin: 0 15px;
-        padding: 15px 0 30px;
+         margin: 0 15px;
+         padding: 15px 0 30px;
     }
 }
