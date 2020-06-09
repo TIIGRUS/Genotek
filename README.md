@@ -19,4 +19,4 @@
 
 **Потраченное время: 5.5 часа.**
 
-<https://tiigrus.github.io/Genotek/>
+[https://tiigrus.github.io/Genotek/](Demo)
