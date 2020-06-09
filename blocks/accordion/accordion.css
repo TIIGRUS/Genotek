@@ -6,6 +6,9 @@
 @import '../../blocks/accordion/__pagagraph/accordion__pagagraph.css';
 @import '../../blocks/accordion/__link/accordion__link.css';
 @import '../../blocks/accordion/__image/accordion__image.css';
+@import '../../blocks/accordion/__toggle/accordion__toggle.css';
+@import '../../blocks/accordion/__title/_active/accordion__title_active.css';
+@import '../../blocks/accordion/__column-right/accordion__column-right.css';
 
 .accordion {
     background-color: #142536;

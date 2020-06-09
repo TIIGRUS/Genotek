@@ -5,6 +5,7 @@
 @import '../../blocks/card/__meta/_access/card__meta_access.css';
 @import '../../blocks/card/__meta/_access-icon/card__meta_access-icon.css';
 @import '../../blocks/card/__meta/_company/card__meta_company.css';
+@import '../../blocks/card/__meta/_text-hidden/card__meta_text-hidden.css';
 @import '../../blocks/card/__title/card__title.css';
 @import '../../blocks/card/__subtitle/card__subtitle.css';
 @import '../../blocks/card/__image/card__image.css';

@@ -4,3 +4,9 @@
     object-fit: cover;
     display: block;
 }
+
+@media (max-width: 575px) {
+    .card__image {
+        height: 220px;
+    }
+}

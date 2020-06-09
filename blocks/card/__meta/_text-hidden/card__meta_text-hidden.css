@@ -1,0 +1,5 @@
+@media (max-width: 575px) {
+    .card__meta_text-hidden {
+        display: none;
+    }
+}

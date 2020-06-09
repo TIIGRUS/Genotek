@@ -5,4 +5,5 @@
     background-size: cover;
     width: 14px;
     height: 6px;
+    transition: 0.25s linear;
 }

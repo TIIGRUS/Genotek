@@ -1,6 +1,7 @@
 .form__button {
     background: none;
-    max-width: 214px;
+    min-width: 214px;
+    max-width: 100%;
     min-height: 50px;
     border-radius: 29.5px;
     font-size: 16px;
