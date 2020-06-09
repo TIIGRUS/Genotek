@@ -16,3 +16,9 @@
 .accordion__title:hover {
     background: #22374b;
 }
+
+@media (max-width: 575px) {
+    .accordion__title {
+        padding: 15px;
+    }
+}

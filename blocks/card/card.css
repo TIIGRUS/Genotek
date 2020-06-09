@@ -18,3 +18,10 @@
     box-shadow: 0 4px 26px 0 #e1e1e1;
     overflow: hidden;
 }
+
+@media (max-width: 575px) {
+    .card {
+        border-radius: 0;
+        margin: 60px auto;
+    }
+}

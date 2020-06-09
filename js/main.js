@@ -7,7 +7,7 @@ for (let i = 0; i < accToggle.length; i++) {
         if (accContent.style.maxHeight) {
             accContent.style.maxHeight = null;
         } else {
-            accContent.style.maxHeight = accContent.scrollHeight + "px";
+            accContent.style.maxHeight = '100%';
         }
     });
 }

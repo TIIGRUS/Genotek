@@ -5,3 +5,10 @@
     max-width: 281px;
     margin: 30px 0 0;
 }
+
+@media (max-width: 575px) {
+    .form {
+        max-width: 100%;
+        margin: 0;
+    }
+}

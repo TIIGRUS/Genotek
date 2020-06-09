@@ -6,4 +6,6 @@
     width: 14px;
     height: 6px;
     transition: 0.25s linear;
+    flex-shrink: 0;
+    margin-left: 30px;
 }

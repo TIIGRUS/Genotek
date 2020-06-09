@@ -21,3 +21,9 @@
     background: #fff;
     color: #000;
 }
+
+@media (max-width: 575px) {
+    .form__button {
+        width: 100%;
+    }
+}
