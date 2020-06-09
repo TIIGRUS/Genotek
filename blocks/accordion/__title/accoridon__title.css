@@ -1,0 +1,18 @@
+.accordion__title {
+    font-size: 22px;
+    line-height: 1.27;
+    font-weight: normal;
+    color: #fff;
+    margin: 0;
+    padding: 30px 45px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    transition: background 0.25s linear;
+}
+
+.accordion__title:hover {
+    background: #22374b;
+}

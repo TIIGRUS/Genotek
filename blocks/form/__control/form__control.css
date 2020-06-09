@@ -1,0 +1,20 @@
+.form__control {
+    color: #fff;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #364A5E;
+    transition: all .25s linear;
+    width: 100%;
+    margin: 0 0 30px;
+    padding: 0 0 5px;
+}
+
+.form__control:hover,
+.form__control:focus {
+    border-color: #fff;
+    outline: 0;
+}
+
+.form__control::placeholder {
+    color: #fff;
+}

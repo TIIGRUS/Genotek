@@ -1,3 +1,5 @@
 @import '../vendor/normalize.css';
 @import '../blocks/page/page.css';
 @import '../blocks/card/card.css';
+@import '../blocks/accordion/accordion.css';
+@import '../blocks/form/form.css';

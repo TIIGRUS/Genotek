@@ -1,0 +1,12 @@
+@import '../../blocks/accordion/accordion.css';
+@import '../../blocks/accordion/__title/accoridon__title.css';
+@import '../../blocks/accordion/__title/_icon/accordion__title_icon.css';
+@import '../../blocks/accordion/__content-container/accordion__content-container.css';
+@import '../../blocks/accordion/__item/accordion__item.css';
+@import '../../blocks/accordion/__pagagraph/accordion__pagagraph.css';
+@import '../../blocks/accordion/__link/accordion__link.css';
+@import '../../blocks/accordion/__image/accordion__image.css';
+
+.accordion {
+    background-color: #142536;
+}

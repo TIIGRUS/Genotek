@@ -1,0 +1,7 @@
+@import '../../blocks/form/__control/form__control.css';
+@import '../../blocks/form/__button/form__button.css';
+
+.form {
+    max-width: 281px;
+    margin: 30px 0 0;
+}

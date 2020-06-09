@@ -1,0 +1,8 @@
+.accordion__title_icon::after {
+    content: '';
+    display: block;
+    background: url(../../../../images/chevron.svg) no-repeat center;
+    background-size: cover;
+    width: 14px;
+    height: 6px;
+}

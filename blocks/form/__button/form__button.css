@@ -1,0 +1,22 @@
+.form__button {
+    background: none;
+    max-width: 214px;
+    min-height: 50px;
+    border-radius: 29.5px;
+    font-size: 16px;
+    line-height: 1.88;
+    color: #fff;
+    border: solid 1px #fff;
+    outline: 0;
+    cursor: pointer;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    transition: all 0.25s linear;
+    margin: 15px 0 0;
+}
+
+.form__button:hover,
+.form__button:focus {
+    background: #fff;
+    color: #000;
+}
